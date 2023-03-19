@@ -123,7 +123,6 @@ const chalk = require("chalk");//Coded ByRoa
 const fs = require("fs");//Coded ByRoa
 const moment = require("moment");//Coded ByRoa
 const Jimp = require("jimp");//Coded ByRoa
-const db = require("quick.db");//Coded ByRoa
 var prefix = ayarlar.prefix;//Coded ByRoa
 
 client.on("ready", () => {
